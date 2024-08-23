@@ -68,9 +68,9 @@ Feel free to fork the repository and submit pull requests for any improvements o
 
 ## License
 
-This project is licensed under the MIT License - see the **`[LICENSE](LICENSE)`** file for details.
+This project is licensed under the MIT License - see the **[LICENSE](LICENSE)** file for details.
 
 ## Acknowledgments
 
-**`[ADO.NET Documentation](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/)`**
-**`[SQL Server Documentation](https://docs.microsoft.com/en-us/sql/sql-server/)`**
+**[ADO.NET Documentation](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/)**
+**[SQL Server Documentation](https://docs.microsoft.com/en-us/sql/sql-server/)**
